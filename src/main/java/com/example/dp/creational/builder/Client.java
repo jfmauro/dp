@@ -1,4 +1,4 @@
-package com.example.dp.creational;
+package com.example.dp.creational.builder;
 
 public class Client {
 
